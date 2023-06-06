@@ -1,1 +1,1 @@
-# organiat_app
+# organizat_app
